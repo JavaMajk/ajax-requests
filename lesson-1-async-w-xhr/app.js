@@ -16,7 +16,7 @@
 
         const articleRequest = new XMLHttpRequest();
         articleRequest.onload = addArticles;
-        articleRequest.open('GET', `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=4e7e237952f04b7eb05c9842ae4259b8`);
+        articleRequest.open('GET', `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=4e7e237952f04b7eb05c9842ae4259b8`);
         articleRequest.send();
 
         function addImage() {
