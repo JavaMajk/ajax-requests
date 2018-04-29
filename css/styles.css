@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: #fafbfc;
+    background: #ffffff;
     font-family: OpenSans, sans-serif;
     margin: 0;
     padding: 0;
@@ -99,18 +99,24 @@ ul {
 }
 
 .article {
-    background: url('../images/icon-article.png'), #ffffff;
+    background: url('../images/icon-article.png'), #e7e8e8;
     background-position: 1.5em 1.2em;
     background-repeat: no-repeat;
     background-size: 1.8em;
     border: solid 1px #dbe2e8;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    margin-bottom: 0.5em;
+    border-radius: 6px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.16);
+    margin-bottom: 1em;
     padding: 1em 2em 1em 4.8em;
 }
 
 .article:hover {
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.303);
+}
+
+a {
+    color: #002c39;
+    text-decoration: none;
 }
 
 .article h2 {
@@ -120,11 +126,11 @@ ul {
 }
 
 .article h2 a {
-    color: #02b3e4;
+    color: #002c39;
     text-decoration: none;
 }
 
-.article h2 a:hover {
+.article h2:hover {
     text-decoration: underline;
 }
 
