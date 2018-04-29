@@ -1,6 +1,7 @@
-# Ajax
+# Ajax Requests
 
-This is the repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
+This is a simple project using the unsplashAPI and nytimesAPI for getting requests using three different methods.
+This is from part of repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
 
 * the XHR object
 * jQuery's `.ajax()` method
@@ -8,18 +9,7 @@ This is the repo for [Udacity's Ajax course](). The course covers making asynchr
 
 The same project is built with each of these techniques. You'll find one folder for each.
 
-## Table of Contents
+## Preview & Instructions
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+You can see in action [here](https://javamajk.github.io/ajax-requests/)
 
-## Instructions
-
-There are no special instructions for this project.
-
-## Creators
-
-**Richard Kalehoff**
-
-* [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-* [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
