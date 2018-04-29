@@ -11,5 +11,5 @@ The same project is built with each of these techniques. You'll find one folder 
 
 ## Preview & Instructions
 
-You can see in action [here](https://javamajk.github.io/ajax-requests/)
+You can see in action [here](https://javamajk.github.io/ajax-requests/lesson-1-async-w-xhr/).
 
